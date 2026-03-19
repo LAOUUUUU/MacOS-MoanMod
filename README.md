@@ -141,6 +141,8 @@ Launch the game again. If MelonLoader loaded correctly you will see its splash s
 > - Microsoft Visual C++ Redistributables (2015–2019)
 > - .NET 6.0 Desktop Runtime
 
+## If troubleshooting didnt help u dm me
+> laouuuuu on discord
 ---
 
 ## Links
