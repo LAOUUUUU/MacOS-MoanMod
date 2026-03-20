@@ -28,7 +28,6 @@
 | MDRG Windows version | https://incontinentcell.itch.io/factorial-omega |
 | MelonLoader v0.7.2 | https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.2 — download `MelonLoader.Installer.exe` |
 | MoanMod | https://github.com/IkariDevGIT/MDRGMoanMod/releases — download the latest release zip |
-| Torrent Version of CrossOver | https://www.torrentmac.net/crossover-26-0-0/ |
 ---
 
 ## Installation
@@ -151,4 +150,4 @@ Launch the game again. If MelonLoader loaded correctly you will see its splash s
 - MelonLoader: https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.2
 - CrossOver: https://www.codeweavers.com/crossover
 - MDRG on itch.io: https://incontinentcell.itch.io/factorial-omega
-- Torrent Crossover: https://www.torrentmac.net/crossover-26-0-0/
+
